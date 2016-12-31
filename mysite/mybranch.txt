@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="visitnepal.css">
+<head>
+	<title>Bits innovation</title>
+</head>
+<body>
+<div class="header">
+<h1> Visit Nepal</h1>
+</div>
+	<div class="nav">
+	home<br>
+	contact<br>
+	places<br>
+	</div>
+		<div class="section">
+		<h1>Kathmandu</h1>
+		<p> Kathmandu is the capital city of Nepal.It is the most populous city in Nepal.</p>
+		</div>
+			<div class="footer">
+			visit us @ <a href="nepalmandu.com">nepalmandu.com</a</div>
+	<h2>Visit Nepal</h2>
+
+</body>
+</html>
