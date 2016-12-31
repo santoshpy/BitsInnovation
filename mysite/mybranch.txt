@@ -2,7 +2,7 @@
 <html>
 <link rel="stylesheet" href="visitnepal.css">
 <head>
-	<title>Visit Nepal</title>
+	<title>Bits innovation</title>
 </head>
 <body>
 <div class="header">
@@ -19,6 +19,7 @@
 		</div>
 			<div class="footer">
 			visit us @ <a href="nepalmandu.com">nepalmandu.com</a</div>
+	<h2>Visit Nepal</h2>
 
 </body>
 </html>
