@@ -1,17 +1,44 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title></title>
+    <title>This is the title.</title>
 </head>
 <body>
-
+<section id="features">
+			<div class="container">
+				<div class="section-heading">
+					<h2 class="heading">FEATURES</h2>
+				</div>
+				<div class="container">
+					<div class="row feature-item">
+					{% for feature in features %}
+						<div class="col-sm-7">
+						
+							<h3 class="section-heading"><i class="fa fa-check-square-o"></i>{{ feature }}</h3>
+							<p class="lead">{{ description }}</p>
+							<p>{{ content }}</p>
+						</div>
+						<div class="col-sm-5">
+							<img src="{% static 'img/feature1.png' %}" class="img-responsive" alt="Feature">
+						</div>
+					{% endfor %}
+					</div>
+				</div>
+			</div>
+		</section>
 </body>
 </html>
 
 hello git
 new line
 
+<<<<<<< HEAD
 
 
 MS - 24
 
+=======
+next line  sdhfskjfh
+sfkashjfasf
+\sfhjslfk
+>>>>>>> 582ab0e33137a6c383a8457ec4ad1017dd9c42df
