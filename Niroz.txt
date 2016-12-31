@@ -1,2 +1,14 @@
 hi I ma niroz
+<<<<<<< HEAD
 welcome to bitsinnvation...
+=======
+
+
+sdkhfjhskl
+sjfhkjhfslkdf
+sdfsafklshf
+sfshjkfh
+sfsdfhlsd
+sfhsdlkf
+
+>>>>>>> 582ab0e33137a6c383a8457ec4ad1017dd9c42df
